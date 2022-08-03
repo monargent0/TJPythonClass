@@ -489,3 +489,4 @@ cython_debug/
 5.DeepLearning/Data/wiki/wiki.model.wv.vectors.npy
 5.DeepLearning/Data/wiki/wiki.txt
 5.DeepLearning/Data/wiki/wiki.wakati
+*.tflite
